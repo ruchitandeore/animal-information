@@ -1,2 +1,0 @@
-# animal-information
-animal information
